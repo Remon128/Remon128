@@ -1,8 +1,5 @@
 ### Hi there, I am Remon 👋
 
-[![Linkedin:Remon](https://img.shields.io/badge/-Remon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/remon-boshra/)](https://www.linkedin.com/in/remon-boshra/)
-[![Instagram:Remon](https://img.shields.io/badge/-Remon-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/remonatef128/)](https://www.instagram.com/remonatef128/)
-[![Facebook:Remon](https://img.shields.io/badge/-Remon-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/remonatef128/)](https://www.facebook.com/remonatef128/)
 ![GitHub followers](https://img.shields.io/github/followers/Remon128?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Remon128&color=brightgreen"> 
 
